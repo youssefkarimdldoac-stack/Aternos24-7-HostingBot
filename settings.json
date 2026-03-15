@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "zayed.aternos.me:55982",
